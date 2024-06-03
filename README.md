@@ -7,3 +7,5 @@ Calcuala el volumenen de las siguientes figuras
 Esfera
 Cubo
 Tetraedro
+
+![img.png](img-output.png)
